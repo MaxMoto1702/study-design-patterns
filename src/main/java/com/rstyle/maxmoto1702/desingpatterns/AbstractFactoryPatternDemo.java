@@ -20,7 +20,7 @@ import com.rstyle.maxmoto1702.desingpatterns.abstractfactory.factories.FactoryPr
  *
  *
  */
-public class AbstractFactoryDemo {
+public class AbstractFactoryPatternDemo {
 
     public static void main(String... args) {
 
